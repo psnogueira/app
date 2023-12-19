@@ -1,4 +1,4 @@
-## Expanding the ESLint configuration
+## Projeto Eto
 
 Para criar um localhost:
 - ```npm run dev```
