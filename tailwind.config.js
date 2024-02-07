@@ -25,6 +25,8 @@ module.exports = {
         'secondary-500': '#FFB620',
         'off-white': '#D0DFFF',
         'red': '#FF5A5A',
+        'red-500': '#EF4444',
+        'red-600': '#DC2626',
         'dark-1': '#000000',
         'dark-2': '#09090A',
         'dark-3': '#101012',
