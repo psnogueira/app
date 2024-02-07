@@ -1,6 +1,6 @@
 # Projeto Eto
 
-Para rodar o projeo no seu computador:
+Para rodar o projeto no seu computador:
 
 ```
 // Instalar os arquivos necessários
