@@ -20,11 +20,13 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
 
-    /* Shadcn */
+    // Shadcn
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
+    
+
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
